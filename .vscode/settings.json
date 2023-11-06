@@ -45,6 +45,7 @@
         "xtr1common": "cpp",
         "string": "cpp",
         "71a": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "sstream": "cpp"
     }
 }
